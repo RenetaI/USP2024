@@ -4,12 +4,12 @@ public class HelloWorld {
             //TODO Auto - generated method stub
             Greeting gr = new Greeting ();
             gr.greetItalian ();
+   }
+    public void greetEnglish (){
+            System.out.println ("Hello");
     }
-    puclic void greet English (){
-            System.out.println ("Hello World");
-    }
-    puclic void greet Italian(){
+    public void greetItalian()
     {
-            System.out.println ("Ciao, Ciao");
+    System.out.println ("Ciao");
     }
-{
+}
